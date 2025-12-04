@@ -29,6 +29,8 @@ h1, h2, h3, h4, h5, h6, p, li, td, th, div, span {
 
 # Componentes y Estructura de Bases de Datos
 
+## Juliano Cardona 32.281.199
+
 Fundamentos de Organización y Clasificación
 
 ---
